@@ -17,7 +17,7 @@ export default class Navbar extends Component {
         <div className="nav-center">
           <div className="nav-header">
             <Link to="/" className='logo'>
-                rao
+                Javascript
             </Link>
             <button
               type="button"
@@ -34,20 +34,8 @@ export default class Navbar extends Component {
             <li>
               <Link to="/">Home</Link>
             </li>
-            <li>
-              <Link to="/services">Services</Link>
-            </li>
-            <li>
-              <Link to="/aboutus">About Us</Link>
-            </li>
-            <li>
-              <Link to="/products">Products</Link>
-            </li>
-            <li>
-              <Link to="/portfolio">Portfolio</Link>
-            </li>
-            <li>
-              <Link to="/clientele">Clientele</Link>
+          <li>
+              <Link to="/topics">Topics</Link>
             </li>
           </ul>
         </div>

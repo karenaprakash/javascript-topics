@@ -1,5 +1,5 @@
 
-## Navbar Example 
+## Topics Example : javascripts basics 
 
 clone or download project 
 
@@ -9,7 +9,6 @@ clone or download project
 
 ## Demo :  
 
-https://still-meadow-80328.herokuapp.com/
 
 
 ## npm :  
@@ -28,3 +27,4 @@ src :
 
 ## routes.js :
 contains all routes of our project 
+
