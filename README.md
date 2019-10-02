@@ -1,5 +1,5 @@
 
-## Topics Example : javascripts basics 
+## Topics Example : javascripts basics
 
 clone or download project 
 
